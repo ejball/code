@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ejball code',
-  tagline: 'Documentation for ejball\'s code projects.',
+  title: 'ejball.com/code',
+  tagline: 'Documentation for Ed\'s code projects.',
   favicon: 'img/favicon.ico',
 
   url: 'https://ejball.com',
@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ejball code',
+        title: 'ejball.com/code',
         items: [
           {
             href: 'https://github.com/ejball',
@@ -64,6 +64,9 @@ const config = {
       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Ed Ball. Built with Docusaurus.`,
+      },
+      colorMode: {
+        respectPrefersColorScheme: true
       },
       prism: {
         theme: prismThemes.github,
