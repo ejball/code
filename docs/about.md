@@ -125,6 +125,7 @@ soon adopted as the official Logos wiki.
 * Leveraged generative API (GPT 3.5) to summarize Smart Search results on demand.
 * Enhanced Faithlife.Configuration, a library enabling single-file multi-environment configuration for ASP.NET Core.
 * Ported multiple web APIs from .NET Framework to .NET Core.
+* Assembled a year's worth of "coder tips" from software development books and websites, and wrote a script to post one per workday to a Logos Slack channel.
 
 ### 2024
 
