@@ -49,9 +49,8 @@ My entire software development career has been at [one amazing company](https://
 
 * Made continued contributions to LDLS, building an increasingly large codebase of C++ and COM.
 * Wrote a Prayer List application for the Palm PDA (personal digital assistant) in C++.
-* Wrote ClaasesEtc, a JavaScript library to facilitate object-oriented code, and used it to write JavaScript to improve the development of LDLS reports.
-* Designed a wiki syntax and wrote EdgeWiki, a personal project using C# 2.0 and the ASP.NET web framework. It was 
-soon adopted as the official Logos wiki.
+* Wrote ClassesEtc, a JavaScript library to facilitate object-oriented code, and used it to improve the development of LDLS reports.
+* Designed a wiki syntax and wrote EdgeWiki, a personal project using C# 2.0 and the ASP.NET web framework. It was eventually adopted as the official Logos wiki.
 
 ### 2006–2010
 
@@ -96,7 +95,7 @@ soon adopted as the official Logos wiki.
 ### 2017–2018
 
 * Architected and implemented the backend for the next generation of the Notes feature of Logos Bible Software, storing data in SQLite on the client and in MySQL on the server, supporting both synchronization and direct API access, all leveraging the Facility API Framework.
-* Created a background service to migrate synchronized previous-generation notes, which continue to be created on old clients.
+* Created a background service to migrate synchronized previous-generation notes, which continued to be created on old clients for many years.
 * Continued contributions to digital library APIs, particularly for book access in the Logos Bible Software web app.
 
 ### 2019
