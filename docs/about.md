@@ -134,3 +134,10 @@ My entire software development career has been at [one amazing company](https://
 * Wrote the backend implementation for multiple sections of the new-and-improved Factbook feature of the Logos Bible Study app.
 * Integrated vector search into Smart Search in preparation for release in 2025.
 * Designed and implemented an evaluation API and web app that we used to fine-tune vector search algorithms by running queries, evaluating the results with AI, and calculating industry-standard statistics.
+
+### 2025
+
+* Finalized and deployed vector search support for Smart Search.
+* Continued to maintain and improve the AI API and evaluation tooling.
+* Created a chatbot API and prototype app with the ability to search and cite Logos books.
+* Released [MuchAdo](https://muchado.net/), the successor to Faithlife.Data.
