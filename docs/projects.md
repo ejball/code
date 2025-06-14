@@ -9,7 +9,7 @@ I am the sole author or primary contributor for a number of open source projects
 ## .NET Libraries
 
 * [Facility](https://facilityapi.github.io/) is a cross-platform framework for designing, implementing, consuming, and documenting web APIs.
-* [Faithlife.Data](https://faithlife.github.io/FaithlifeData/) makes it easier to query ADO.NET-compatible databases.
+* [MuchAdo](https://muchado.net/) makes it easier to query ADO.NET-compatible databases.
 * [Faithlife.Reflection](https://faithlife.github.io/FaithlifeReflection/) simplifies and optimizes reflection over .NET types.
 * [Faithlife.DataAnnotations](https://faithlife.github.io/FaithlifeDataAnnotations/) supplements DataAnnotations from System.ComponentModel.
 * [Faithlife.Parsing](https://faithlife.github.io/Parsing/) is used to create parsers in C#.
