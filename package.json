@@ -26,6 +26,11 @@
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@docusaurus/types": "^3.9.2"
   },
+  "overrides": {
+    "@docusaurus/bundler": {
+      "webpackbar": "^7.0.0"
+    }
+  },
   "browserslist": {
     "production": [
       ">0.5%",
